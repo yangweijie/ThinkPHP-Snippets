@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[protected function _before_update(&$data,$options) {
+	<content><![CDATA[protected function _before_update(&\$data,\$options) {
 ${1:}
 }$0]]></content>
 	<tabTrigger>_b</tabTrigger>
